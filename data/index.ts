@@ -93,15 +93,19 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Md Jamil Akhtar was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Jamil Akhtar's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Sonu Iqbal",
-    title: "Director of Tamanna Collection",
+      "I thought it was impossible to make a website as beautiful as our product, but proved me wrong.I've never met a web developer who truly cares about their clients' success like Rick does.",
+    name: "@Dr R Prakash",
+    images:
+      "https://cdn1.vectorstock.com/i/1000x1000/23/70/man-avatar-icon-flat-vector-19152370.jpg",
+    title: "HOD Of CSE - AVIT",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Md Jamil Akhtar was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Jamil Akhtar's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Jamil Akhtar is the ideal partner.",
+    name: "@Sonu Iqubal",
+    images:
+      "https://cdn1.vectorstock.com/i/1000x1000/23/70/man-avatar-icon-flat-vector-19152370.jpg",
+    title: "Director of Tamanna Collection",
   },
 ];
 
@@ -173,16 +177,26 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    link: "https://github.com/",
+    link: "https://github.com/mdjamilakhtar793",
   },
   {
     id: 2,
     img: "/twit.svg",
-    link: "https://github.com/",
+    link: "https://x.com/mdakhtar_jamil",
   },
   {
     id: 3,
     img: "/link.svg",
-    link: "https://github.com/",
+    link: "https://www.linkedin.com/in/mdjamilakhtar786/",
+  },
+  {
+    id: 3,
+    img: "/facebook.png",
+    link: "https://www.facebook.com/profile.php?id=100023565732668",
+  },
+  {
+    id: 3,
+    img: "/instagram.png",
+    link: "https://www.instagram.com/_mdjamilakhtar786/",
   },
 ];
