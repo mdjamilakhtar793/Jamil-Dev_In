@@ -74,7 +74,7 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Online Ecommerce to explore",
+    title: "Online Ecommerce website to explore",
     des: "Designed and Developed Online ecommerce platform, that allowing users to buy products. such as, maxPrice and minPrice, and Category wise search, filters products, user can Buy products anything anywhere authenticated users.● Admin Dashboard, admin can manage and see revenue & transaction, users, products and, inventory, gender ratio, order throughout the year and Order fulfilment ratio, stock availability, revenue distribution, user age group, active user,total revenue, discount allotted, and coupon code and on dashboard.",
     img: "/Ecommerce.png",
     iconLists: ["/re.svg", "js.gif", "/node.png", "/mongo.png"],

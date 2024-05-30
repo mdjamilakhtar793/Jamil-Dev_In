@@ -68,9 +68,7 @@ const Projects = () => {
 
                 <div className="flex justify-center items-center">
                   <p className="flex lg:text-xl md:text-xs text-sm text-purple">
-                    <a href="https://quick-booking-eight.vercel.app/">
-                      Check Live Site
-                    </a>
+                    <a href={item.link}>Check Live Site</a>
                   </p>
                   <FaLocationArrow className="ms-3" color="#CBACF9" />
                 </div>
