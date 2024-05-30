@@ -74,6 +74,14 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
+    title: "Online Ecommerce to explore",
+    des: "Designed and Developed Online ecommerce platform, that allowing users to buy products. such as, maxPrice and minPrice, and Category wise search, filters products, user can Buy products anything anywhere authenticated users.● Admin Dashboard, admin can manage and see revenue & transaction, users, products and, inventory, gender ratio, order throughout the year and Order fulfilment ratio, stock availability, revenue distribution, user age group, active user,total revenue, discount allotted, and coupon code and on dashboard.",
+    img: "/Ecommerce.png",
+    iconLists: ["/re.svg", "js.gif", "/node.png", "/mongo.png"],
+    link: "https://tamanna-collection--theta.vercel.app/",
+  },
+  {
+    id: 2,
     title: "Online Booking to explore",
     des: "Designed and Developed Online marketplace platform, that allowing users to search accommodations. such as, date range, map location, number of guests, listings, search filters property, user can anything anywhere booking/reserve.Guest / Owner Booking / Reservation system, cancellation, Creation and deletion of properties Pricing calculation.Credential authentication, Google authentication, GitHub authentication.Implementing responsive design and ensuring cross-browser compatibility.",
     img: "/Qbooking.png",
@@ -81,7 +89,7 @@ export const projects = [
     link: "https://quick-booking-eight.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Real-Estate Agency to explore",
     des: "Real-Estate is to the best place to find your next perfect place to live.Real estate agency that specializes in helping clients buy, sell, and rent properties in the most desirable neighborhoods.",
     img: "/realestate.png",
