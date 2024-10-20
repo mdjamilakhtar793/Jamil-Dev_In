@@ -45,14 +45,14 @@ const Hero = () => {
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
           <p className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80">
             Dynamic Web Dev with FullStack
-            <a
+            {/* <a
               href="Resume.pdf"
               download={"Resume.pdf"}
               className="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold p-1 rounded inline-flex text-center items-center"
             >
               Resume
               <FaCloudDownloadAlt className="text-blue-700 text-lg pl-1" />
-            </a>
+            </a> */}
           </p>
 
           {/**
