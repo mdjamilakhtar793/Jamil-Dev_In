@@ -230,7 +230,7 @@ const SkeletonFour = () => {
           className="rounded-full h-10 w-10"
         />
         <p className="sm:text-sm text-xs text-center font-semibold text-neutral-500 mt-4">
-          I love angular, RSC, and Redux.
+          I love JavaScript Framework, React.Js, Next.Js, and Redux.
         </p>
         <p className="border border-orange-500 bg-orange-100 dark:bg-orange-900/20 text-orange-600 text-xs rounded-full px-2 py-0.5 mt-4">
           Helpless
