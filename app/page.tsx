@@ -8,8 +8,10 @@ import Clients from "../components/Clients";
 import Experience from "@/components/Experience";
 import Approach from "@/components/Approach";
 import Footer from "@/components/Footer";
-import Interactive from "@/components/Interactive";
 import { OrbitingCirclesDemo } from "@/components/OrbitingCircle";
+import { FeaturesSection } from "@/components/FeatureSection";
+import { BackgroundLinesDemo } from "@/components/BackgroundLinesDemo";
+import { BentoGridThirdDemo } from "@/components/BentoGridDemo";
 
 export default function Home() {
   return (
@@ -22,6 +24,8 @@ export default function Home() {
         <Clients />
         <Experience />
         <OrbitingCirclesDemo />
+        <FeaturesSection />
+        <BentoGridThirdDemo />
         <Approach />
         <Footer />
       </div>

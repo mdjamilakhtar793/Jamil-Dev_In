@@ -96,6 +96,14 @@ export const projects = [
     iconLists: ["/re.svg", "js.gif", "/node.png", "/mongo.png"],
     link: "https://rm-real-estate-agency-kbyz.onrender.com/",
   },
+  {
+    id: 4,
+    title: "Drug Research Platform",
+    des: "Developed a full-stack w e b application researchers and visualize molecular structures, generate custom molecules using SMILES notation. aims to streamline the molecular research process, and improved decision-making. Group creation and message management for research collaboration. Implemented 6+ key features including user authentication, authorization, AI powered molecule generation, Real-time collaboration, dashboard, Molecule visualization, Data analysis with RDKit.",
+    img: "/prj.png",
+    iconLists: ["/re.svg", "js.gif", "/node.png", "/mongo.png"],
+    link: "https://medicine-research-platform.vercel.app/auth-page/signin",
+  },
 ];
 
 export const testimonials = [
