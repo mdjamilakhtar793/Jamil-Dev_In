@@ -104,6 +104,14 @@ export const projects = [
     iconLists: ["/re.svg", "js.gif", "/node.png", "/mongo.png"],
     link: "https://medicine-research-platform.vercel.app/auth-page/signin",
   },
+  {
+    id: 4,
+    title: "HTTP3 Web-Hosting Platform",
+    des: "HTTP3 is a revolutionary decentralized web hosting platform that leverages blockchain technology to provide permanent, censorship-resistant website hosting. combines the power of IPFS with smart contracts to create a robust, decentralized infrastructure for the web. •Implemented 6+ key features including user authentication, Decentralize Deployment & Search Engine, AI Website enerator, Instant Preview & CI/CD, Analytics & Monitoring, Decentralized CDN.",
+    img: "/HTTP3s.png",
+    iconLists: ["/re.svg", "js.gif", "/node.png", "/mongo.png"],
+    link: "https://htt3.netlify.app/",
+  },
 ];
 
 export const testimonials = [
