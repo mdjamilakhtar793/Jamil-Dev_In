@@ -61,7 +61,7 @@ export function FeaturesSection({}) {
   ];
   return (
     <div className="" id="features">
-      <h1 className="heading">Our Features</h1>
+      <h1 className="heading">Our Focus</h1>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4  relative z-10 py-10 max-w-7xl mx-auto">
         {features.map((feature, index) => (
           <Feature key={feature.title} {...feature} index={index} />
