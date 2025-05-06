@@ -126,10 +126,10 @@ export const testimonials = [
   {
     quote:
       "Collaborating with Md Jamil Akhtar was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Jamil Akhtar's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Jamil Akhtar is the ideal partner.",
-    name: "@Sonu Iqubal",
+    name: "@Chris Zacharias",
     images:
-      "https://cdn1.vectorstock.com/i/1000x1000/23/70/man-avatar-icon-flat-vector-19152370.jpg",
-    title: "Director of Tamanna Collection",
+      "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/c3d45be20610dfe2c817ed30a3a08658e1ccbd61.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECANKNERAKX%2F20250506%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250506T122923Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCoPN7OBgr0SfORfWISgvWf6%2F5T69WkGuFsySDopYH4GwIhAMTJxcyQ8kBRU5VYwgHboOgzeprE%2Fl8luGMaW4UhrsWhKuUDCEUQABoMMDA2MjAxODExMDcyIgyUYhpU%2BydawZ1F%2FPsqwgNhVtlNlQAKrPQjBD20XoUYPXvv%2FSpkpTLXwqsmdHWYudpmJ26udRmpLIIpjWBWqrwgdyJvg9g7KZ9K7KV57Gdx6OZEZLNLo5MnzR3Fo%2FDDkanUBw6gJ6z%2FMs2Ks1dCbnNTvOHq6Ua1oA2YAYG7mBVfnDlyxuE1QO7bcdWPjvrkaseoPgumVDRBIz6hij3F%2BbP3AD047wypEz2eOdMzedQjY7KqFyMoUX2RSuPAQfz25My9eOvRaM0IppwOZSg3tKZK0a%2BaiNCe2sw4cbB14OaB0B5ne%2BLeF9MswofArQ6cGsZNhMv%2FRR1H%2BWj7cbb24ofMWlx%2BMN9Rid0lh1hT3m4n6seru2e5RfXv%2F5OA3Bzl86XI4nXesHFQbLaaUSSz9tVmGaJOce0VkL7CGi5DiQbg11NVShev6tT9HM1bYyPxNBw4wep5PGdNDHnDjwib6GHlaw2eoFcU5Cr7BCB5rPmQsMf1t%2FZ7uQ5HEOXT2jh1DLnOPlWo0C2vSRyLXxnx1fZo8vz3l9IpSsQrsaP7dJUFhiASALYKRvPE%2B6gq5tpiqNVNrICZSjmGtFgl%2B8Skszc5kF4wGiNYukm20WfdJufKhO0wzu3nwAY6pAEO%2BLhbfvTcJqjAvk9AFlwSKxiHsTIH6Dkgy7zaM30qEabkJDm6wnkwFWSaYM2VwvRlDFvzMmm89Vj7SL8Ab93od370cFGD3jH9OUElQuUjs%2BghDEi9yZbqmqDVg9VVGf5BvBOWnKwCdJO2DLZFLjs2DTQi%2FJx3LisS6WX2ot1MgZ1PzTOimaChseB5yi3yKASrT0T4U7HT6pTurHlpDtsoI%2FpKrw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=1de73e2711fdda4c32f4a1fa69b1feb3157786210101ea444973061857e3a48d",
+    title: "Founder/CEO",
   },
 ];
 
@@ -137,8 +137,8 @@ export const companies = [
   {
     id: 1,
     name: "T-C Collection",
-    img: "/t-c.png",
-    nameImg: "/t-c.png",
+    img: "/ImgIx.png",
+    nameImg: "/ImgIx.png",
   },
 ];
 
